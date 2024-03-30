@@ -15,7 +15,7 @@ This repository contains the code for a web page developed with guidance from [B
 ## Installation
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com//.git
+   git clone https://github.com/BrightTNut/APPLE.git
    ```
 2. Open the project directory.
 
